@@ -1,7 +1,7 @@
 coyote
 ====
 
-Yet Another Music Player is another music player :P
+Coyote is another music player
 
 coyote is still under heavy development
 
